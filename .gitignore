@@ -1,3 +1,5 @@
+*.a
+*.bin
 *.bkp
 *.bak
 # Binaries for programs and plugins
