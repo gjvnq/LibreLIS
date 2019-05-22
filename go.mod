@@ -13,5 +13,7 @@ require (
 	github.com/mattevans/pwned-passwords v0.0.0-20180307011435-91729d0e496e
 	github.com/pkg/errors v0.8.1
 	github.com/raja/argon2pw v1.0.1
+	github.com/satori/go.uuid v1.2.0 // indirect
+	github.com/stretchr/testify v1.3.0
 	golang.org/x/crypto v0.0.0-20190513172903-22d7a77e9e5f // indirect
 )
